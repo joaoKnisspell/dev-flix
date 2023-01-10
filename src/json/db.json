@@ -1,0 +1,88 @@
+{
+    "videos": [
+        {
+            "id":1,
+            "title":"O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+            "category":"JavaScript",
+            "link":"https://www.youtube.com/embed/Ptbk2af68e8",
+            "capa": "https://img.youtube.com/vi/Ptbk2af68e8/maxresdefault.jpg"
+        },
+        {
+            "id":2,
+            "title":"React JS // Dicionário do Programador",
+            "category":"React",
+            "link":"https://www.youtube.com/embed/NhUr8cwDiiM",
+            "capa": "https://img.youtube.com/vi/NhUr8cwDiiM/maxresdefault.jpg"
+        },
+        {
+            "id":3,
+            "title":"TypeScript - O que é e quais os seus benefícios? | Diego Fernandes",
+            "category":"TypeScript",
+            "link":"https://www.youtube.com/embed/kg2-SMolAV0",
+            "capa": "https://img.youtube.com/vi/kg2-SMolAV0/maxresdefault.jpg"
+        },
+        {
+            "id":4,
+            "title":"VALE A PENA ESTUDAR PYTHON EM 2023? [6 MOTIVOS]",
+            "category":"Phyton",
+            "link":"https://www.youtube.com/embed/fLs-zF9BFxg",
+            "capa": "https://img.youtube.com/vi/fLs-zF9BFxg/maxresdefault.jpg"
+        },
+        {
+            "id":5,
+            "title":"JAVASCRIPT do básico ao avançado ( Mapa de estudos / Roadmap )",
+            "category":"JavaScript",
+            "link":"https://www.youtube.com/embed/6YwbZbHRQ8w",
+            "capa": "https://img.youtube.com/vi/6YwbZbHRQ8w/maxresdefault.jpg"
+        },
+        {
+            "id":6,
+            "title":"ROTAS COM REACT ROUTER DOM NO REACTJS! *versão v6*",
+            "category":"React",
+            "link":"https://www.youtube.com/embed/1lXHzKgazys",
+            "capa": "https://img.youtube.com/vi/1lXHzKgazys/maxresdefault.jpg"
+        },
+        {
+            "id":7,
+            "title":"CURSO DE TYPESCRIPT NA PRÁTICA - APRENDA TYPESCRIPT EM 1 HORA",
+            "category":"TypeScript",
+            "link":"https://www.youtube.com/embed/lCemyQeSCV8",
+            "capa": "https://img.youtube.com/vi/lCemyQeSCV8/maxresdefault.jpg"
+        },
+        {
+            "id":8,
+            "title":"Como CRIAR uma API com PYTHON [DO ZERO]",
+            "category":"Phyton",
+            "link":"https://www.youtube.com/embed/FBLAV1SbJFk",
+            "capa": "https://img.youtube.com/vi/FBLAV1SbJFk/maxresdefault.jpg"
+        },
+        {
+            "id":9,
+            "title":"Aprenda JAVASCRIPT - 5 MINUTOS",
+            "category":"JavaScript",
+            "link":"https://youtu.be/WRlfwBof66s",
+            "capa": "https://img.youtube.com/vi/WRlfwBof66s/maxresdefault.jpg"
+        },
+        {
+            "id":10,
+            "title":"REACT.JS Primeiros passos - 9 minutos",
+            "category":"React",
+            "link":"https://youtu.be/SQsR0KA-oew",
+            "capa": "https://img.youtube.com/vi/SQsR0KA-oew/maxresdefault.jpg"
+        },
+        {
+            "id":11,
+            "title":"VOU APRENDER TYPESCRIPT (3 motivos)",
+            "category":"TypeScript",
+            "link":"https://youtu.be/M57zuClvRbM",
+            "capa": "https://img.youtube.com/vi/M57zuClvRbM/maxresdefault.jpg"
+        },
+        {
+            "id":12,
+            "title":"Aprenda Python em 10min (para Iniciantes)",
+            "category":"Phyton",
+            "link":"https://youtu.be/4p7axLXXBGU",
+            "capa": "https://img.youtube.com/vi/4p7axLXXBGU/maxresdefault.jpg"
+        }
+    ]
+}
